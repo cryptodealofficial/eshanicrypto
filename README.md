@@ -12,3 +12,4 @@ give it any name (example: base-commits)
  click “add file” → “create new file”
 name it something like log.txt or notes.md
 type anything inside the file
+....end of day 2.....
