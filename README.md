@@ -15,3 +15,4 @@ type anything inside the file
 ....end of day 2.....
 This is day 3 of commit in base ie 18.03.2026
 scroll down and click “commit changes”
+open the file again
