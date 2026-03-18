@@ -23,3 +23,6 @@ repeat this process until you reach 100+ commits.
  verify on base guild
 connect your github account to base guild
 refresh the quest page and your progress should update.
+
+
+how to commit on github (base guild task), this is the easiest way, no terminal stress. 
