@@ -13,3 +13,4 @@ give it any name (example: base-commits)
 name it something like log.txt or notes.md
 type anything inside the file
 ....end of day 2.....
+This is day 3 of commit in base ie 18.03.2026
