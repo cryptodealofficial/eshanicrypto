@@ -21,3 +21,4 @@ click commit changes again
 every time you save changes, it counts as 1 commit.
 repeat this process until you reach 100+ commits.
  verify on base guild
+connect your github account to base guild
