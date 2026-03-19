@@ -40,3 +40,5 @@ the new guild tasks are:
 ...end of day 3...
 
 this is day 4 of commit on base 19.03.2026
+
+ onchain
