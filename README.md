@@ -75,3 +75,4 @@ here’s how to get it:
 own a basename
 have at least 1k, 5k, 10k, 50k, or 100k followers on X
 have 1k, 5k, 10k, 50k, or 100k followers on farcaster
+have a base core team member following you on X or farcaster
