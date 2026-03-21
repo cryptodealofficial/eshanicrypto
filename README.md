@@ -88,3 +88,4 @@ add your onchain wallet for verification
 once the verification is complete, return to the base guild to claim your role.
 
 This is day 6 of commit on base
+base will be migrating away from the op stack into its own infrastructure stack.
