@@ -86,3 +86,5 @@ go to https://coinbase.com/onchain-verify and log in with your coinbase account
 open “onchain verification” from the menu
 add your onchain wallet for verification
 once the verification is complete, return to the base guild to claim your role.
+
+This is day 6 of commit on base
